@@ -1,0 +1,4 @@
+http://www.postgresqltutorial.com/postgresql-python/transaction/
+https://github.com/sameersbn/docker-postgresql
+http://www.tornadoweb.org/en/stable/guide/templates.html
+https://www.acmesystems.it/tornado_web_server_python
